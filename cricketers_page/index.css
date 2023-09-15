@@ -1,0 +1,134 @@
+.background-container {
+    padding: 15px;
+    background-color: #ffffff;
+}
+
+.cricketer-heading {
+    font-family: "Roboto";
+    font-weight: 25px;
+    color: blue;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.cricketer-para {
+    font-family: "Roboto"
+        font-size: 15px;
+    color: #323f4b;
+    padding: 0px;
+}
+
+.refer-page-head {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #323f4b;
+    font-size: 16px;
+    padding: 0px;
+}
+
+.refer-card-container {
+    height: 150px;
+    width: 390px;
+    background-color: #fb4e71;
+    padding: 10px;
+}
+
+.refer-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/klrahul-img1.png");
+    height: 100vh;
+    width: 280px;
+    background-size: cover;
+    background-color: #fb4e71;
+}
+
+.rahul-head {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.rahul-para {
+    color: white;
+    font-family: "Roboto";
+    font-size: 15px;
+    padding: 5px;
+}
+
+.ipl-rcrd-head {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #323f4b;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.ipl-card-container {
+    height: 150px;
+    width: 300px;
+    background-color: white;
+    padding: 10px;
+    margin: 5px;
+}
+
+.kxip-head {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #888888;
+    font-size: 13px;
+    padding: 1px;
+}
+
+.kxip-para {
+    font-family: "Roboto";
+    font-weight: 10px;
+    color: #888888;
+    font-size: 13px;
+    padding: 1px;
+}
+
+.videos-head {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #323f4b;
+    font-size: 18px;
+    padding: 1px;
+}
+
+.rahul-img-head {
+    font-family: "Roboto";
+    font-weight: 15px;
+    color: #323f4b;
+    font-size: 13px;
+    padding: 1px;
+}
+
+.innings-head {
+    font-family: "Roboto";
+    font-weight: 15px;
+    color: #323f4b;
+    font-size: 13px;
+    padding: 1px;
+    text-align: center;
+}
+
+.video-card {
+    height: 150px;
+    width: 390px;
+    background-color: #e6f6ff;
+    padding: 10px;
+}
+
+.single-hand-head {
+    font-family: "Roboto";
+    font-weight: 15px;
+    color: #323f4b;
+    font-size: 13px;
+    padding: 1px;
+    text-align: center;
+}
+
+.txt-center {
+    text-align: center;
+}

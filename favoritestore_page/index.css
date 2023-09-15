@@ -1,0 +1,60 @@
+.shop-top-section {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/stores-img.png");
+    height: 40vh;
+    background-size: cover;
+    background-color: #894bca;
+}
+
+.shop-top-section-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 32px;
+    width: 200px;
+    padding: 20px;
+}
+
+.shop-bottom-section {
+    text-align: left;
+    background-color: #e6f6ff;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-item {
+    text-align: left;
+    background-color: white;
+    width: 30px;
+    border-radius: 9px;
+    padding: 5px;
+    margin: 3px;
+}
+
+.sub-heading {
+    color: #f780c3;
+    font-family: "Bree Serif";
+    font-size: 15px;
+    width: 250px;
+    padding: 15px;
+
+}
+
+.card-image {
+    height: 80px;
+    width: 80px;
+    margin: 20px;
+}
+
+.card-name {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: normal;
+}

@@ -1,0 +1,36 @@
+.card-footer {
+    text-align: center;
+
+}
+
+.background-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    height: 100vh;
+    color: white;
+    background-size: cover;
+}
+
+.main-heading {
+    color: white;
+    text-align: center;
+}
+
+.button {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border-width: 0px;
+    padding: 5px;
+    height: 40px;
+    width: 80px;
+
+
+}
+
+.paragraph {
+    text-decoration: underline;
+    text-align: center;
+    font-family: "roboto";
+}

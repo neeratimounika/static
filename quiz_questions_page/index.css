@@ -1,0 +1,91 @@
+.bg-container {
+    background-color: #875fc0;
+    background-size: cover;
+    height: 100vh;
+}
+
+.score-heading {
+    color: #ffffff;
+    text-align: right;
+    font-size: 15px;
+    font-family: "roboto";
+    font-weight: bold;
+    padding: 20px;
+}
+
+.q-container {
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.q-heading {
+    color: #323f4b;
+    text-align: center;
+    font-size: 25px;
+    font-family: "roboto";
+    font-weight: bold;
+    padding: 10px;
+
+}
+
+.paragraph {
+    color: #323f4b;
+    text-align: center;
+    font-size: 18px;
+    font-family: "roboto";
+    font-weight: 600;
+    padding: 10px;
+}
+
+.img {
+    height: 100px;
+    width: 250px;
+    padding: 10px;
+}
+
+.sub-container {
+    background-color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    text-align: center;
+    padding: 15px;
+    margin: 20px;
+}
+
+.option-list {
+    list-style-type: none;
+    padding: 5px;
+}
+
+.option {
+    background-color: #ffffff;
+    color: #323f4b;
+    font-size: 15px;
+    font-family: "roboto";
+    font-weight: 600;
+    padding: 12px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #323f4b;
+}
+
+.correct-option {
+    background-color: #875fc0;
+    color: #ffffff;
+
+}
+
+.button {
+    background-color: #fbaf00;
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "roboto";
+    font-weight: 600;
+    padding: 14px;
+    border-width: 0px;
+    width: 95px;
+    height: 35px;
+}

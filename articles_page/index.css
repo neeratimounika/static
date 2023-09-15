@@ -1,0 +1,78 @@
+.empower-container {
+    background-color: #225db0;
+    background-size: cover;
+    height: 100vh;
+    padding: 40px;
+}
+
+.empower-heading {
+    font-size: 28px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.empower-paragraph {
+    font-size: 18px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 300;
+
+}
+
+.empower-card-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-width: 0px;
+    margin: 10px;
+    width: 150px;
+    height: 120px;
+    text-align: center;
+    padding: 10px;
+}
+
+.empower-img {
+    height: 50px;
+    width: 60px;
+}
+
+.empower-sub-heading {
+    font-size: 18px;
+    font-weight: 400;
+    color: #1f2933;
+    font-family: "Roboto";
+}
+
+.card-container {
+    background-color: #225db0;
+    margin: 20px;
+    padding: 20px;
+}
+
+.text-container {
+    padding: 15px;
+    margin: 10px;
+}
+
+.card-heading {
+    font-size: 25px;
+    font-weight: 400;
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 10px;
+
+}
+
+.unordered-disc-list {
+    list-style-type: disc;
+    font-size: 15px;
+    font-weight: 200;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.button {
+    text-align: center;
+    border-width: 3px;
+
+}

@@ -1,0 +1,124 @@
+.podcast-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.detail-card {
+    margin: 10px;
+    text-align: center;
+}
+
+.podcast-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 400;
+    padding: 18px;
+}
+
+.podcast-card-container {
+    padding: 18px;
+}
+
+.podcast-card-heading {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-top: 6px;
+    font-family: bold;
+}
+
+.podcast-card-heading {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-top: 6px;
+    font-family: bold;
+}
+
+.podcast-name {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-top: 6px;
+    font-family: bold;
+}
+
+
+.podcast-card-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.podcast-card-image {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.category {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 12px;
+}
+
+.podcast-title {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.podcast-caption {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 12px;
+
+}
+
+.podcast-text-container {
+    padding: 10px;
+}
+
+.podcast-header {
+    background-color: #151765;
+    padding: 20px;
+    height: 170px;
+}
+
+.podacst-episode-container {
+    margin: 10px;
+}
+
+.podcast-description {
+    color: #5a7184;
+    font-family: "roboto";
+    font-size: 14px;
+
+}
+
+.podcast-duration {
+    color: #5a7184;
+    font-family: "roboto";
+    font-size: 10px;
+}
+
+.button-container {
+    margin: 20px;
+}
+
+.button {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 12px;
+    font-weight: 600;
+    background-color: #141961;
+    width: 75px;
+    height: 24px;
+    border-radius: 25px;
+    border-width: opx;
+}

@@ -1,0 +1,58 @@
+.bg-container {
+    background-size: cover;
+    height: 100vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+}
+
+.nemo-container {
+    text-align: left;
+    padding: 10px;
+}
+
+.text-container {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.main-heading {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "roboto";
+    color: white;
+    margin: 5px;
+}
+
+.button {
+    background-color: white;
+    border-radius: 10px;
+    color: #ff8348;
+    border-width: 0px;
+    font-size: 10px;
+    font-weight: bold;
+    height: 40px;
+    width: 70px;
+}
+
+.paragraph {
+    font-size: 12px;
+    font-weight: bold;
+    font-family: "roboto";
+    color: white;
+    margin: 3px;
+
+}
+
+.sub-heading {
+    font-size: 20px;
+    font-family: "roboto";
+    color: white;
+    margin: 10px;
+
+}
+
+.img {
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}

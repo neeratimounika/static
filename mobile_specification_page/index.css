@@ -1,0 +1,30 @@
+.image {
+    width: 100vw;
+}
+
+.card-container {
+    text-align: left;
+    padding: 20px;
+    border-color: #707070;
+    border-width: 3px;
+    border-style: solid;
+
+}
+
+.main-heading {
+    font-family: "roboto";
+    font-size: 25px;
+    color: #0a1f44;
+    font-weight: 500;
+}
+
+.unordered-disc-list {
+    list-style-type: disc;
+}
+
+.list {
+    font-size: 15px;
+    font-weight: bold;
+    color: #0a1f44;
+    font-family: "roboto";
+}

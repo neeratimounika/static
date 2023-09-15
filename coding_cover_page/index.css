@@ -1,0 +1,31 @@
+.background-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    height: 100vh;
+    background-size: cover;
+    background-color: #00000080;
+    padding: 25px;
+    border-style: solid;
+
+}
+
+.button {
+    height: 350px;
+    width: 300px;
+    border-radius: 5px;
+    border-width: 6px;
+    padding: 10px;
+    text-align: center;
+    font-family: "bree serif";
+    font-style: italic;
+    font-weight: 100;
+    border-color: #48ee59;
+    font-size: 20px;
+    color: #ffffff;
+
+    background-color: #00000080;
+    color: white;
+
+
+
+}
+
